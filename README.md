@@ -1,19 +1,20 @@
 
 # Hey there 👋
 
-I'm **Adhin Mahesh**, a Computer Science student from India.
+I'm Adhin Mahesh, a Computer Science student and backend-focused developer from India.
 
-I build backend systems, geospatial applications, and Java/Spring Boot projects.
+I enjoy building scalable backend systems, geospatial applications, and real-world software using Java and Spring Boot.
 
-If an idea sounds interesting, I usually try building it.
+Currently exploring modern web technologies, open source, and system design while continuously improving my development skills.
 
-</div>
 
 ---
 
 ## 🚀 Tech Stack
 
 - Java
+- python
+- C
 - Spring Boot
 - PostgreSQL
 - PostGIS
@@ -35,19 +36,19 @@ Location-based job matching using geospatial queries.
 
 ## 🌱 Currently Learning
 
-- Data Structures & Algorithms
+- MERN stack
 - System Design
 - Open Source Contribution
-- Linux
+  
 
 ---
 
 ## 🎯 Fun Facts
 
 - I like building real-world backend systems
-- Interested in geospatial technology
+- Interested in Backend development  
 - Learning through projects and open source
-- Anime + coding + late-night debugging ☕
+- coding + late-night debugging ☕
 
 ---
 
