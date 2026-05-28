@@ -54,5 +54,5 @@ Location-based job matching using geospatial queries.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINK
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/adhinmahesh
+
