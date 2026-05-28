@@ -1,5 +1,4 @@
 
-<div align="center">
 # Hey there 👋
 
 I'm **Adhin Mahesh**, a Computer Science student from India.
