@@ -1,8 +1,5 @@
-# ABOUT-ME
+
 <div align="center">
-
-<img src="YOUR_GIF_LINK_HERE" width="180"/>
-
 # Hey there 👋
 
 I'm **Adhin Mahesh**, a Computer Science student from India.
