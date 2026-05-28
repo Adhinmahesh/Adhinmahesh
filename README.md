@@ -1,7 +1,7 @@
 
 # Hey there 👋
 
-I'm Adhin Mahesh, a Computer Science student and backend-focused developer from India.
+I'm Adhin Mahesh, a B.Tech Computer Science student and backend-focused developer from India.
 
 I enjoy building scalable backend systems, geospatial applications, and real-world software using Java and Spring Boot.
 
